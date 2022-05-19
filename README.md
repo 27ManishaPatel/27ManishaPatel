@@ -13,7 +13,7 @@ I'm Manisha Patel
 - 📫 How to reach me: ... :email: manisha270989@gmail.com <br>
                           :link: https://www.linkedin.com/in/manisha-patel-804a2a3b
                         
-- 😄 Pronouns: ... You can call me "Mani":relaxed:.
+- 😄 Pronouns: ... You can call me "Developer":computer::wink:,  "Mani":relaxed: .
 
 - ⚡ Fun fact: ...  “My perfect day:sunrise: would start with sleep:sleeping: and end with sleep:sleeping:.”
 
