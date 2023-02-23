@@ -2,8 +2,9 @@
 
 I'm Manisha Patel 
 
-- 🔭 I’m currently student at Hack Your Future :muscle::muscle:...<br>
-         and At Hack Your Future students will acquired with skiills like HTML, CSS, Git, JavaScript, Database, Node.js, React JS..
+- 🔭 I have complited :white_check_mark: :muscle::muscle:... "Full stack Web Developer Bootcamp" at Hack Your Future, copenhegan in January 2023.<br>
+- At Hack Your Future students will acquired with skiills like HTML, CSS, Git/GitHub, JavaScript, Database, Postman, Swagger, Node.js, React JS, Storybook..<br>
+We worked on <a src="https://hyf-fp-class22.fly.dev/">FinalProject</a> in a Team: 
 
 - 🌱 I have complited:white_check_mark:  "Introduction to JavaScript course" at ReDi School of digital intigration, copenhegan in fall semester 2021.
 
