@@ -14,7 +14,7 @@ We worked on FinalProject in a Team: https://hyf-fp-class22.fly.dev/
 - 📫 How to reach me: ... :email: manisha270989@gmail.com <br>
                           :link: https://www.linkedin.com/in/manisha-patel-804a2a3b
                         
-- 😄 Pronouns: ... You can call me "Developer":computer::wink:,  "Mani":relaxed: .
+- 😄 Pronouns: ... You can call me "Techy Girl":computer::wink:,  "Mani":relaxed: .
 
 - ⚡ Fun fact: ...  “My perfect day:sunrise: would start with sleep:sleeping: and end with sleep:sleeping:.”
 
