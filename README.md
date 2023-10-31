@@ -3,7 +3,7 @@
 I'm Manisha Patel 
 
 - 🔭 I have complited :white_check_mark: :muscle::muscle:... "Full stack Web Developer Bootcamp" at Hack Your Future, copenhegan in January 2023.<br>
-- At Hack Your Future students will acquired with skiills like HTML, CSS, Git/GitHub, JavaScript, Database, Postman, Swagger, Node.js, React JS, Storybook..<br>
+- At Hack Your Future students will acquired with skiills like HTML, CSS, Git/GitHub, JavaScript, Database, Postman, Swagger, Node.js, React JS, TypeScript, Storybook..<br>
 We worked on FinalProject in a Team: https://hyf-fp-class22.fly.dev/
 
 - 🌱 I have complited:white_check_mark:  "Introduction to JavaScript course" at ReDi School of digital intigration, copenhegan in fall semester 2021.
